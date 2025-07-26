@@ -1,0 +1,5 @@
+/local.log
+log/
+env
+images/
+__pycache__/
